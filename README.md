@@ -1,1 +1,1 @@
-# LCS-Text-similarity
+# LCS-text-similarity
